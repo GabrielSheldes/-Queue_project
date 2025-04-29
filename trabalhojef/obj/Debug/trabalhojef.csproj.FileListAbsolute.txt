@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\obj\Debug\trabalhojef.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\obj\Debug\trabalhojef.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\bin\Debug\trabalhojef.exe.config
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\bin\Debug\trabalhojef.exe
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\bin\Debug\trabalhojef.pdb
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\obj\Debug\trabalhojef.exe
+C:\Users\Tecnico\Desktop\trabalho_jef\trabalhojef\trabalhojef\obj\Debug\trabalhojef.pdb

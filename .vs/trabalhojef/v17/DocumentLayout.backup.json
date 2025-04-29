@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4944C3F-153B-4A9B-8CC8-E4450D693009}|trabalhojef\\trabalhojef.csproj|c:\\users\\tecnico\\desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4944C3F-153B-4A9B-8CC8-E4450D693009}|trabalhojef\\trabalhojef.csproj|solutionrelative:trabalhojef\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4944C3F-153B-4A9B-8CC8-E4450D693009}|trabalhojef\\trabalhojef.csproj|c:\\users\\tecnico\\desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4944C3F-153B-4A9B-8CC8-E4450D693009}|trabalhojef\\trabalhojef.csproj|solutionrelative:trabalhojef\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4944C3F-153B-4A9B-8CC8-E4450D693009}|trabalhojef\\trabalhojef.csproj|c:\\users\\tecnico\\desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4944C3F-153B-4A9B-8CC8-E4450D693009}|trabalhojef\\trabalhojef.csproj|solutionrelative:trabalhojef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fila.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\Fila.cs",
+              "RelativeDocumentMoniker": "trabalhojef\\Fila.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\Fila.cs*",
+              "RelativeToolTip": "trabalhojef\\Fila.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:21:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\Cliente.cs",
+              "RelativeDocumentMoniker": "trabalhojef\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\Cliente.cs",
+              "RelativeToolTip": "trabalhojef\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:19:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\Program.cs",
+              "RelativeDocumentMoniker": "trabalhojef\\Program.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\trabalho_jef\\trabalhojef\\trabalhojef\\Program.cs",
+              "RelativeToolTip": "trabalhojef\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:18:21.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
